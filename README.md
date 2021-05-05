@@ -30,7 +30,7 @@ Finally if you want to **learn more about what R can do** you can find more info
 
 What you are going to find in this repo
 
-- In  the  ***installation  instructions ***  you  can  find  the  installation instructions.  
+- In  the  ***installation  instructions***  you  can  find  the  installation instructions.  
 - In the ***classes*** folder you can find all the codes covered during the course. 
 - In  the  ***challenges***  folder  you  can  find a series of challenges with correspondent solutions that you can use to test what you have learnt. 
 - In the ***datasets*** you are going to find all information concerning the datasets used in the classes and challenges. 
