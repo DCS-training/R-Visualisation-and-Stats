@@ -46,3 +46,18 @@ How to set a R project
 - Challenges 
 - Solution  
 - Graphs  
+
+## **Topics**
+- Class 1: *Intro to R and R Studio*
+- Class 2: *Types of Data and Grammar of Graphics*
+- Class 3: *Intro to Statisitcs and Descriptive Statistics*
+- Class 4: *Boxplots and Graph Customisation*
+- Class 5: *Data Collection Bias, Probability and Distributions*
+- Class 6: *Null-Hypothesis Testing*
+- Class 7: *Barplots and How to Clean Messy Datasets*
+- Class 8: *PCA and Cluster Analysis*
+- Class 9: *Correlation, Regression, Similarity and Difference Coefficients*
+
+
+
+This repo has a [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/) license
