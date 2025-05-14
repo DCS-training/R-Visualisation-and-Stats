@@ -1,5 +1,4 @@
-# R-Visualisation-and-Stats
-Readme File 
+# R Visualisation and Stats
 
 Hello Everyone! This is the Readme File for the **Statistics and Visualisation with R** Class. 
 
